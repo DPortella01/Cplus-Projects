@@ -1,0 +1,11 @@
+Window 1280 768
+Font sansation.ttf 20 255 255 0
+
+# tok	name	x	y		r	g	b		vx	vy		rad 
+Circle	Cred	100	100		255	0	0		5	7		40 	
+Circle	Ccyn	200	200		0	255	255		5	9		35
+Circle	Cblue	250	250		0	0	255		10	5		70
+
+# tok	name	x	y 		r	g	b		vx	vy		width	height
+Rect	Rgreen	150	200		0	255	0		-5	7		250		50
+Rect	Roran	75	90		255	165	0		1	-2		100		100

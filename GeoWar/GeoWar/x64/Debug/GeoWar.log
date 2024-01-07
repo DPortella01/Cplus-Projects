@@ -1,0 +1,28 @@
+﻿  Entity.cpp
+  EntityManager.cpp
+  Game.cpp
+C:\SRC\Cplusplus-Projects\GeoWar\GeoWar\Game.cpp(136,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\SRC\Cplusplus-Projects\GeoWar\GeoWar\Game.cpp(135,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\SRC\Cplusplus-Projects\GeoWar\GeoWar\Game.cpp(262,22): warning C4244: '=': conversion from 'const _Ty' to 'sf::Uint8', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\SRC\Cplusplus-Projects\GeoWar\GeoWar\Entity.h(40,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\SRC\Cplusplus-Projects\GeoWar\GeoWar\Game.cpp(678,8): message : see reference to function template instantiation 'T &Entity::addComponent<CLifespan,int&>(int &)' being compiled
+          with
+          [
+              T=CLifespan
+          ]
+  Source.cpp
+  Utilities.cpp
+  Generating Code...
+  GeoWar.vcxproj -> C:\SRC\Cplusplus-Projects\GeoWar\x64\Debug\GeoWar.exe
