@@ -1,0 +1,18 @@
+﻿  Animation.cpp
+  Assets.cpp
+  Command.cpp
+  Entiity.cpp
+  EntityManager.cpp
+  GameEngine.cpp
+  MusicPlayer.cpp
+  Physics.cpp
+  Scene.cpp
+  Scene_Frogger.cpp
+  Scene_Menu.cpp
+C:\SRC\Cplus-Projects\Frogger\Frogger\Scene_Menu.cpp(75,33): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\SRC\Cplus-Projects\Frogger\Frogger\Scene_Menu.cpp(92,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SoundPlayer.cpp
+  Source.cpp
+  Utilities.cpp
+  Generating Code...
+  Frogger.vcxproj -> C:\SRC\Cplus-Projects\Frogger\x64\Debug\Frogger.exe
